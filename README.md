@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohan</h1>
 <h3 align="center">A passionate Aspiring Software Engineer from the UK</h3>
 
-- 🔭 I’m currently working on [a machine-learning based stock trade forecaster](https://github.com/rtrinu/TestModel)
-
-- 🌱 I’m currently learning **C and prolog**
+- 🔭 I’m currently working on [a machine-learning based stock trade forecaster](https://github.com/rtrinu/TestModel) and a Spotify Audio Visualiser SDK
 
 - 📫 How to reach me **rbinu2004@gmail.com**
 
